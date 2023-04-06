@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/StudentRegister/static/css/main.9ecac330.css",
+    "main.js": "/StudentRegister/static/js/main.1381bbcf.js",
+    "static/js/262.e603fa0e.chunk.js": "/StudentRegister/static/js/262.e603fa0e.chunk.js",
+    "static/js/625.3204b26e.chunk.js": "/StudentRegister/static/js/625.3204b26e.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/StudentRegister/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/StudentRegister/index.html",
+    "main.9ecac330.css.map": "/StudentRegister/static/css/main.9ecac330.css.map",
+    "main.1381bbcf.js.map": "/StudentRegister/static/js/main.1381bbcf.js.map",
+    "262.e603fa0e.chunk.js.map": "/StudentRegister/static/js/262.e603fa0e.chunk.js.map",
+    "625.3204b26e.chunk.js.map": "/StudentRegister/static/js/625.3204b26e.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/StudentRegister/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ecac330.css",
+    "static/js/main.1381bbcf.js"
+  ]
+}
